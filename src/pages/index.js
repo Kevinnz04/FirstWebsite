@@ -92,14 +92,13 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
         Congratulations
         <br />
-        <span style={headingAccentStyles}>— you just made a Gatsby site! </span>
+        <span style={headingAccentStyles}>— Woop Woop! </span>
         <span role="img" aria-label="Party popper emojis">
           🎉🎉🎉
         </span>
       </h1>
       <p style={paragraphStyles}>
-        Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
-        update in real-time.{" "}
+        Edit <code Catching Children All Day Every Day</code> #ChildCatcher.{" "}
         <span role="img" aria-label="Sunglasses smiley emoji">
           😎
         </span>
