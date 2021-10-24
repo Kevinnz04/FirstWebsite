@@ -98,19 +98,14 @@ const IndexPage = () => {
         </span>
       </h1>
       <p style={paragraphStyles}>
-        Edit <code> Catching Children All Day Every Day</code> #ChildCatcher.{" "}
+        Edit <code> Catching Children All Day Every Day</code> ChildCatcher.{" "}
         <span role="img" aria-label="Sunglasses smiley emoji">
           😎
         </span>
       </p>
       <ul style={listStyles}>
         <li style={docLinkStyle}>
-          <a
-            style={linkStyle}
-            href={`${docLink.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
-          >
             {docLink.text}
-          </a>
         </li>
         {links.map(link => (
           <li key={link.url} style={{ ...listItemStyles, color: link.color }}>
