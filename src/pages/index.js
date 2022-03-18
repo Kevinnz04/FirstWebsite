@@ -98,7 +98,7 @@ const IndexPage = () => {
         </span>
       </h1>
       <p style={paragraphStyles}>
-        <code> Child Cather Catching Children All Day Every Day</code>
+        <code> Child Catcher Catching Children All Day Every Day</code>
         <span role="img" aria-label="Sunglasses smiley emoji">
           😎
         </span>
